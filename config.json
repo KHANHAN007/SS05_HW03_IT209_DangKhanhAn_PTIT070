@@ -1,6 +1,5 @@
 {
-	"post": 8081,
-	"debug": verbose,
-	"env": production"
+	"port": 9000,
+	"debug": "verbose",
+	"env": "production"
 }
-
